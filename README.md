@@ -1,0 +1,1 @@
+As part of learning responsive web design on FreeCodeCamp, I am applying the languages that developers and UX designers, like me, use to build webpages: HTML (Hypertext Markup Language) for content, and CSS (Cascading Style Sheets) for design. I am also learning CSS best practices for accessibility. 
